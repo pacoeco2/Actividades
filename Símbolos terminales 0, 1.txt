@@ -1,0 +1,11 @@
+Símbolos terminales: 0, 1
+Símbolos no terminales: S, A, B
+Axioma: S
+Reglas de producción:
+1. S -> A1B1A
+2. A -> 0A | 0
+3. B -> 0B | 1
+
+Ejemplo de derivación:
+
+S => A1B1A => 01B10 => 01B10 => 01110
