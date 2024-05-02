@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(54, 47, 47);
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.formulario{
+    display: block;
+    align-content: center;
+    align-self: center;
+}
+
+input{
+    border: none;
+    background-color: antiquewhite;
+}
+
+.submit{
+    background-color: none;
+    
+}
